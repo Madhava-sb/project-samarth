@@ -1,0 +1,5 @@
+API Resource ID: 8e0bd482-4aba-4d99-9cb9-ff124f6f1c2f
+Total Rows: 4188
+Pages Fetched: 5
+Downloaded: 2025-10-29 11:33:13
+Method: Paginated API (limit=1000)
